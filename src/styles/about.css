@@ -1,0 +1,48 @@
+#About{
+    padding-top: 5vh;
+    background-color: rgb(212, 208, 208);
+    border-bottom: 1px solid black;
+}
+
+#About center{
+    padding:5vh;
+}
+
+.section{
+    display: flex;
+    padding: 10vh 0vh 5vh 0vh;
+    justify-content: space-evenly;
+}
+
+.section div{
+    width: 30vw;
+}
+
+.h1{
+    font-weight: bolder;
+}
+
+.topic{
+    color: blue;
+    text-decoration: underline;
+}
+
+#edu{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-template-rows: 100px 100px;
+    grid-column-gap: 40px;
+    grid-row-gap: 20px;
+}
+
+.aboutLink{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vh;
+}
+
+.aboutLink button{
+        background-color: blue;
+        color: white;
+        padding: 15px;
+}

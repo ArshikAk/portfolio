@@ -1,0 +1,29 @@
+
+.content{
+    background-color: rgb(48, 47, 47);
+    color: white;
+    padding: 20vh 35vh;
+}
+
+.content h1{
+    font-size: xxx-large;
+    font-weight: bolder;
+}
+
+.content h2{
+    font-size: xx-large;
+}
+
+.b{
+    margin-top: 20px;
+}
+
+.b button{
+    margin-right: 30px;
+}
+
+#know{
+    background-color: blue;
+    color: white;
+    padding: 15px;
+}

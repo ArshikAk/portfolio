@@ -1,0 +1,22 @@
+.skills{
+    padding: 10vh 0px;
+    border-bottom: 1px solid black;
+}
+
+.boxes{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10vh;
+    flex-wrap: wrap;
+}
+
+.box{
+    font-weight: bolder;
+    text-align: center;
+}
+
+.box img{
+    height: 60px;
+    width: 60px;
+    margin-bottom: 15px;
+}

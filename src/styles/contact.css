@@ -24,7 +24,6 @@ input{
 
 textarea{
     border: 1px solid black;
-    width: 30vw;
     resize: none;
 }
 

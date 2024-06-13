@@ -1,5 +1,6 @@
 import Navbar from "./Navbar";
 import "../styles/home.css"
+import "../styles/responsive.css"
 import About from "./About"
 import Skills from "./Skills"
 import AnchorLink from "react-anchor-link-smooth-scroll";

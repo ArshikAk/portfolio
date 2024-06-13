@@ -20,12 +20,12 @@ function Contact(){
                 <br />
 
                 <label htmlFor="">Email Id</label>
-                <input type="text" placeholder="Enter your Email Id" required/>
+                <input type="text" placeholder="Enter your Email Id" required />
 
                 <br />
 
-                <label htmlFor="">Query</label>
-                <textarea name="" id="" cols="30" rows="10" placeholder="Enter your Comments" required></textarea>
+                <label htmlFor="">Message</label>
+                <textarea rows="6" placeholder="Enter your Comments" required ></textarea>
 
                 <br />
 
